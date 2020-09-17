@@ -57,5 +57,8 @@ echo $assoc ["first_name"] . "" . $assoc ["last_name"];?>
 
 $Name = array("Samuel" , "Aidoo", "Millicent" , "Tilly");
 echo $Name[2];
+
+$kofi = array("football" , "women");
+
 ?>
 
